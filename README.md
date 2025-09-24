@@ -105,14 +105,3 @@ Push to GitHub with README.
 
 Deploy (Vercel/Netlify).
 
-👉 This is basically a mini React project to test your skills in:
-
-API fetching
-
-State management
-
-UI/UX
-
-Code organization
-
-Deployment
