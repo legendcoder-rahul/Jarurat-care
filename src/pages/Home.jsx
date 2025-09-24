@@ -19,8 +19,8 @@ const Home = () => {
         <p className='text-xl font-light px-10'>Providing support, guidance, hope and personalized care for cancer patients and their families. Here to ensure you never face your journey alone.</p>
 
         <div className='flex gap-5'>
-        <button className='border px-8 py-2 rounded-2xl bg-blue-200'>Go to Patients</button>
-        <button className='bold border px-8 py-2 rounded'>Learn More</button>
+       <button className='border px-8 py-2 rounded-2xl bg-blue-200'><Link to='/patient'>Go to Patients</Link></button>
+        <button className='bold border px-8 py-2 rounded'><Link to='/about'>Learn More</Link></button>
         </div>
       </div>
     </div>
