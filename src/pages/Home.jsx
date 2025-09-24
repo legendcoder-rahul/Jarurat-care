@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../components/Header'
 import bg from '../assets/bg.png'
+import {Link} from 'react-router-dom'
 
 
 const Home = () => {
